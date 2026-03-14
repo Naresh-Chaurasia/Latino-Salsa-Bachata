@@ -1,0 +1,14 @@
+= Bachata
+:toc: right
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+== Hand Holds
+
+
+image::img/open.png[Open Hold]
+
+---
+
+image::img/semi-closed.png[Semi Close Hold]
