@@ -21,7 +21,7 @@
 *Open Hold Parner Work and Semi Close Hold Partner Work*
 
 * #Different Holds#
-* Transition Open & Semi Close Hold
+* Transition: Open & Semi Close Hold
 * Side Basic
 * Front and Back Basic
 * Left Turn
