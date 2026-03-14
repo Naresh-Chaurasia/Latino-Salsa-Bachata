@@ -30,11 +30,11 @@ image::img/open.png[Open Hold 1]
 
 ---
 
-image::img/semi-closed.png[Semi Close Hold]
+image::img/open2.png[Open Hold 2]
 
 ---
 
-image::img/open2.png[Open Hold 2]
+image::img/semi-closed.png[Semi Close Hold]
 
 ##################################################
 
