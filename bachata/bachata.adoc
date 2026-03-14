@@ -4,7 +4,7 @@
 :sectnums:
 :sectnumlevels: 5
 
-== Session
+== Sessions
 
 === Session 1
 
@@ -13,11 +13,16 @@
 * Left Turn
 * Right Turn
 * In Place Basic
+* Step and Touch
 * Basic In All Directions (Horizontal, Vertical, Diagonal, Circular etc.)
 
 ##################################################
 
----
+== Resources
+
+https://www.youtube.com/playlist?list=PL5wtqicMLL7b333c0PyB0cH9Gd_6lsT9d[YouTube Playlist]
+
+##################################################
 
 == Hand Holds
 
@@ -26,3 +31,11 @@ image::img/open.png[Open Hold]
 ---
 
 image::img/semi-closed.png[Semi Close Hold]
+
+##################################################
+
+== Import Tips
+
+* Keep Knees Soft
+* Hips Movement (Hips Move In Opposite Direction)
+* Hold Your Frame
