@@ -20,6 +20,7 @@
 
 *Open Hold Parner Work and Close Hold Partner Work*
 
+* #Different Holds#
 * Side Basic
 * Front and Back Basic
 * Left Turn
