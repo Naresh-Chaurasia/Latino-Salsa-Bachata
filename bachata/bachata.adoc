@@ -4,8 +4,22 @@
 :sectnums:
 :sectnumlevels: 5
 
-== Hand Holds
+== Session
 
+=== Session 1
+
+* Side Basic
+* Front and Back Basic
+* Left Turn
+* Right Turn
+* In Place Basic
+* Basic In All Directions (Horizontal, Vertical, Diagonal, Circular etc.)
+
+##################################################
+
+---
+
+== Hand Holds
 
 image::img/open.png[Open Hold]
 
