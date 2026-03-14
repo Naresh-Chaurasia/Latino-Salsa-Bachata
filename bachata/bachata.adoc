@@ -36,6 +36,10 @@ image::img/open2.png[Open Hold 2]
 
 image::img/semi-closed.png[Semi Close Hold]
 
+---
+
+image::img/semi-closed.png[]
+
 ##################################################
 
 == Import Tips
