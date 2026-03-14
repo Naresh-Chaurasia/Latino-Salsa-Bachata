@@ -26,11 +26,15 @@ https://www.youtube.com/playlist?list=PL5wtqicMLL7b333c0PyB0cH9Gd_6lsT9d[YouTube
 
 == Hand Holds
 
-image::img/open.png[Open Hold]
+image::img/open.png[Open Hold 1]
 
 ---
 
 image::img/semi-closed.png[Semi Close Hold]
+
+---
+
+image::img/open2.png[Open Hold 2]
 
 ##################################################
 
