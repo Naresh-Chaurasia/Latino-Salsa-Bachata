@@ -13,8 +13,26 @@
 * Left Turn
 * Right Turn
 * In Place Basic
-* Step and Touch
+* Step and Tap
 * Basic In All Directions (Horizontal, Vertical, Diagonal, Circular etc.)
+
+=== Session 2
+
+*Open Hold Parner Work and Close Hold Partner Work*
+
+* Side Basic
+* Front and Back Basic
+* Left Turn
+* Right Turn
+* In Place Basic
+* Step and Tap
+* Switch Open & Close Hold
+
+---
+
+* Basic + 180 degree (rotation)
+* Wrap
+* Hammer Lock
 
 ##################################################
 
@@ -43,3 +61,4 @@ image::img/semi-closed2.png[Semi Close Hold]
 * Keep Knees Soft
 * Hips Movement (Hips Move In Opposite Direction)
 * Hold Your Frame
+* While turing lady, the hand should be at lady's forehead height.
